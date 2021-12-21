@@ -1,6 +1,7 @@
 import random
 import time
-# Esse aqui é apenas um comentário de teste
+# Esse programa tem a tentativa de simulador um jogo
+# de pedra, papel e tesoura com o computador
 
 Tentativas = int(input('Quantas vezes você quer jogar comigo? '))
 

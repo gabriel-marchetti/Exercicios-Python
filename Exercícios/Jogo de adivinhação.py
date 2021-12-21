@@ -1,6 +1,13 @@
 import random
 import time
 
+# Esse exercício tem como objetivo criar um jogo onde o computador pode
+# escolher um número entre 1 a 20. Dada a escolha do computador
+# o objetivo do usuário é tentar adivinhar qual número
+# foi escolhido pelo computador
+
+
+# Escolha do número feita pelo computador
 secretNumber = random.randint(1, 20)
 
 print('Estou pensando em um valor entre 1 e 20...')
@@ -14,6 +21,8 @@ while flag:
     if numberGuess < secretNumber:
         print('hmmm....')
         time.sleep(1)
+        # Essa variável aqui tem apenas a função de gerar
+        # alguns diálogos extras
         diálogo_1 = random.randint(1, 3)
         if diálogo_1 == 1:
             print('Tente uma valor mais alto!')
