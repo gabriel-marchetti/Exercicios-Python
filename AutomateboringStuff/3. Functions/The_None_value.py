@@ -10,16 +10,20 @@
 
 Spam = len('Hello')
 print(Spam)
+
 # No terminal devemos ter uma função que retorna 5
 # Portanto, fazendo um teste do tipo
 print(Spam == None)
+
 # Deve nos retornar um valor falso!
 
 # Agora, vamos fazer o teste para a função print()
 Ham = print('Hello')
+
 # Isso deve nos imprimir no terminal 'Hello':
 # Agora vejamos que:
 print(Ham == None)
+
 # Deve nos retornar o valor True!
 
 # Isso ocorre porque como vimos, o retorno da
