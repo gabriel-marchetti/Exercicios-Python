@@ -1,0 +1,26 @@
+Creating your Own fuctions:
+
+function = Mini-programa dentro do programa
+Mas precisamos chamar essa função
+
+
+def hello():
+    print('Hello!')  # Body of the function
+
+
+Return statements:
+
+
+def plusOne(number):
+    return number + 1
+
+
+Nem toda função tem a função return, mas ela sempre irá retornar um valor, que nesse caso será 'None'
+
+
+print('Hello', end=' ')
+print('World')
+# Faz os prints ficarem na mesma linha no terminal
+
+print('Cat', 'Dog', 'Mouse', sep=' ')
+# sep indica o separador, por padrão a vírgula irá colocar um espaço

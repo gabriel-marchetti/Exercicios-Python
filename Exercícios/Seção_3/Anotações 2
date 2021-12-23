@@ -1,0 +1,11 @@
+Outra maneira de importarmos algos é através do comando:
+
+from random import * # que basicamente está nos dizendo que queremos importar tudo desse módulo
+
+Nesse caso não precisamos do random.randint(1, 10)
+o jeito certo seria randint(1, 10)
+Mas isso deixa meio confusa a maneira de escrevemos
+
+import sys
+
+sys.exit()

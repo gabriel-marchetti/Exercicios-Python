@@ -1,0 +1,6 @@
+Standart Librarys
+
+math, random and modules
+
+para usar essas bibliotecas
+import "Nome da biblioteca"
