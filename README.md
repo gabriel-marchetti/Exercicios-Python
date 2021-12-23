@@ -4,3 +4,5 @@
  Esse aqui é um teste para colocar as coisas em **Negrito**. Ou agora, podemos ver que essa parte vai ficar em *Itálico*
 
 ![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/94913011/147014334-e77d7df7-a975-4657-b4e5-ae2d80394240.png)
+
+Um link muito útil para visualizarmos alguns códigos, principalmente sobre escopos de funções, é o seguinte link: [Python Tutor](https://pythontutor.com/visualize.html#mode=display)
