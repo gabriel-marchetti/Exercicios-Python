@@ -11,3 +11,9 @@
         
     Camel Case é um tipo de classe
 """
+
+
+    class Calculador:
+        pass
+
+
